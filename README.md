@@ -1,6 +1,6 @@
-"""
 
-deepfake_detect.py
+
+Deepfake Detector
 ==================
 Deepfake & Image Forgery Detection
 
@@ -29,4 +29,5 @@ Requirements:
 Dependencies:
 pip install Pillow numpy matplotlib exifread
 
-"""
+<img width="592" height="120" alt="struct" src="https://github.com/user-attachments/assets/e53dd5c3-e706-4b6b-831c-c906fbf8b36a" />
+
