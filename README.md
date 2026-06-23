@@ -2,8 +2,9 @@
 
 deepfake_detect.py
 ==================
-Deepfake & Image Forgery Detection — Unified Pipeline
+Deepfake & Image Forgery Detection
 Australian Phoenix CyberOps | Chadi Saliby
+Type: Experimental  
 
 Runs three forensic detection methods against any JPEG image:
   1. EXIF Metadata Audit
